@@ -4783,7 +4783,7 @@
     )
   )
 
-  (gr_text semi; (at 131.318 34.544) (layer B.SilkS)
+  (gr_text semi; (at 150.368 35.433) (layer B.SilkS) (tstamp 5FF95B09)
     (effects (font (size 15 25) (thickness 2)) (justify mirror))
   )
   (gr_arc (start 231.7604 1.5874) (end 234.1415 1.5874) (angle -90) (layer Edge.Cuts) (width 0.2) (tstamp 5FFA8198))

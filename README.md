@@ -1,6 +1,6 @@
 # semi
  A 12.25u experiment
 
- ![](./Images/top.svg)
- ![](./Images/bottom.svg)
+ ![](./Images/top.png)
+ ![](./Images/bottom.png)
  ![](./Images/keyboard-layout.png)
